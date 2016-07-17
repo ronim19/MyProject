@@ -1,5 +1,2 @@
 This is my first sync on GitHub
-
-Adding a line to check
-
-
+Adding more changes
